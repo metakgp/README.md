@@ -178,5 +178,5 @@ Use this space to show useful examples of how this project can be used. Addition
 [issues-url]: https://github.com/metakgp/PROJECT_NAME/issues
 [license-shield]: https://img.shields.io/github/license/metakgp/PROJECT_NAME.svg?style=for-the-badge
 [license-url]: https://github.com/metakgp/PROJECT_NAME/blob/master/LICENSE
-[wiki-shield]: https://custom-icon-badges.demolab.com/badge/metakgp_wiki-grey?logo=metakgp_logo&logoColor=white&style=for-the-badge
+[wiki-shield]: https://custom-icon-badges.demolab.com/badge/metakgp_wiki-grey?logo=metakgp_logo&style=for-the-badge
 [wiki-url]: https://wiki.metakgp.org
