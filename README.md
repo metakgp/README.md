@@ -10,6 +10,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Wiki][wiki-shield]][wiki-url]
+[![Slack][slack-shield]][slack-url]
 
 </div>
 
@@ -180,3 +181,5 @@ Use this space to show useful examples of how this project can be used. Addition
 [license-url]: https://github.com/metakgp/PROJECT_NAME/blob/master/LICENSE
 [wiki-shield]: https://custom-icon-badges.demolab.com/badge/metakgp_wiki-grey?logo=metakgp_logo&style=for-the-badge
 [wiki-url]: https://wiki.metakgp.org
+[slack-shield]: https://img.shields.io/badge/-MetaKGP%20Slack-%234a154b?style=for-the-badge&logo=slack
+[slack-url]: https://slack.metakgp.org
