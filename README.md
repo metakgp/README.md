@@ -10,7 +10,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Wiki][wiki-shield]][wiki-url]
-[![Slack][slack-shield]][slack-url]
 
 </div>
 
@@ -19,7 +18,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/metakgp/PROJECT_NAME">
-    <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
+     <img width="140" alt="image" src="https://raw.githubusercontent.com/metakgp/design/main/logos/logo.jpg">
   </a>
 
   <h3 align="center">PROJECT_NAME</h3>
@@ -28,9 +27,9 @@
   <!-- UPDATE -->
     <i>Project one liner slogan goes here</i>
     <br />
-    <a href="https://github.com/metakgp/PROJECT_NAME/issues">Report Bug</a>
+    <a href="https://UPDATE.metakgp.org">Website</a>
     ·
-    <a href="https://github.com/metakgp/PROJECT_NAME/issues">Request Feature</a>
+    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Request Feature / Report Bug</a>
   </p>
 </div>
 
@@ -45,7 +44,8 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Maintainer(s)](#maintainers)
+  - [Maintainer(s)](#maintainers)
+  - [creators(s)](#creators)
 - [Contact](#contact)
 - [Additional documentation](#additional-documentation)
 
@@ -127,6 +127,8 @@ Use this space to show useful examples of how this project can be used. Addition
 
 ## Maintainer(s)
 
+The currently active maintainer(s) of this project.
+
 <!-- UPDATE -->
 - [NAME](https://github.com/GITHUB_USERNAME)
 
@@ -136,7 +138,7 @@ Use this space to show useful examples of how this project can be used. Addition
 
 <p>
 📫 Metakgp -
-<a href="https://bit.ly/metakgp-slack">
+<a href="https://slack.metakgp.org">
   <img align="center" alt="Metakgp's slack invite" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/slack.svg" />
 </a>
 <a href="mailto:metakgp@gmail.com">
@@ -181,5 +183,4 @@ Use this space to show useful examples of how this project can be used. Addition
 [license-url]: https://github.com/metakgp/PROJECT_NAME/blob/master/LICENSE
 [wiki-shield]: https://custom-icon-badges.demolab.com/badge/metakgp_wiki-grey?logo=metakgp_logo&style=for-the-badge
 [wiki-url]: https://wiki.metakgp.org
-[slack-shield]: https://img.shields.io/badge/-MetaKGP%20Slack-%234a154b?style=for-the-badge&logo=slack
 [slack-url]: https://slack.metakgp.org
