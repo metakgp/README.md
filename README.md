@@ -149,8 +149,6 @@ Use this space to show useful examples of how this project can be used. Addition
 </a>
 </p>
 
-<br>
-
 ### Maintainer(s)
 
 The currently active maintainer(s) of this project.
