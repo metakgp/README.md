@@ -127,7 +127,20 @@ Use this space to show useful examples of how this project can be used. Addition
 
 ## Maintainer(s)
 
+> [!Tip]
+> When any [creator](#creator) is not in this list, it means that they have graduated<br>
+> And the responisbility to maintain this project is on the shoulders of the maintainers
+
 The currently active maintainer(s) of this project.
+
+<!-- UPDATE -->
+- [NAME](https://github.com/GITHUB_USERNAME)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Creator(s)
+
+Honoring the original creator(s) of this project.
 
 <!-- UPDATE -->
 - [NAME](https://github.com/GITHUB_USERNAME)
