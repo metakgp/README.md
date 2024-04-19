@@ -44,9 +44,9 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Contact](#contact)
   - [Maintainer(s)](#maintainers)
   - [creators(s)](#creators)
-- [Contact](#contact)
 - [Additional documentation](#additional-documentation)
 
 </details>
@@ -125,28 +125,6 @@ Use this space to show useful examples of how this project can be used. Addition
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Maintainer(s)
-
-> [!Tip]
-> When any [creator](#creator) is not in this list, it means that they have graduated<br>
-> And the responisbility to maintain this project is on the shoulders of the maintainers
-
-The currently active maintainer(s) of this project.
-
-<!-- UPDATE -->
-- [NAME](https://github.com/GITHUB_USERNAME)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Creator(s)
-
-Honoring the original creator(s) of this project.
-
-<!-- UPDATE -->
-- [NAME](https://github.com/GITHUB_USERNAME)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Contact
 
 <p>
@@ -170,6 +148,22 @@ Honoring the original creator(s) of this project.
   <img align="center" alt="metakgp's Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
 </a>
 </p>
+
+<br>
+
+### Maintainer(s)
+
+The currently active maintainer(s) of this project.
+
+<!-- UPDATE -->
+- [NAME](https://github.com/GITHUB_USERNAME)
+
+### Creator(s)
+
+Honoring the original creator(s) of this project.
+
+<!-- UPDATE -->
+- [NAME](https://github.com/GITHUB_USERNAME)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
