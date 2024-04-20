@@ -6,6 +6,9 @@ on:
             - "main"
         paths-ignore:
             - "**.md"
+            - "LICENSE"
+            - "LICENSE.txt"
+            - ".gitignore"
 
 jobs:
     push:
