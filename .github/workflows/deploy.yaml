@@ -31,12 +31,27 @@ jobs:
                   username: ${{ secrets.DOCKERHUB_USERNAME }}
                   password: ${{ secrets.DOCKERHUB_PASSWORD }}
 
-            - name: Build & Push
+            - name: Cache Docker layers SERVICE_NAME
+              uses: actions/cache@v3
+              with:
+                  path: /tmp/.buildx-cache-SERVICE_NAME
+                  key: ${{ runner.os }}-buildx-SERVICE_NAME-${{ github.sha }}
+                  restore-keys: |
+                      ${{ runner.os }}-buildx-SERVICE_NAME-
+
+            - name: Build & Push SERVICE_NAME
               uses: docker/build-push-action@v5
               with:
                   context: .
                   push: true
-                  tags: ${{ secrets.DOCKERHUB_USERNAME }}/CONTAINER_NAME:latest
+                  tags: ${{ secrets.DOCKERHUB_USERNAME }}/SERVICE_NAME:latest
+                  cache-from: type=local,src=/tmp/.buildx-cache-SERVICE_NAME
+                  cache-to: type=local,dest=/tmp/.buildx-cache-SERVICE_NAME-new,mode=max
+
+            - name: Move SERVICE_NAME cache
+              run: |
+                  rm -rf /tmp/.buildx-cache-SERVICE_NAME
+                  mv /tmp/.buildx-cache-SERVICE_NAME-new /tmp/.buildx-cache-SERVICE_NAME
 
     push:
         name: Push Code Stage
