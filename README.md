@@ -18,7 +18,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/metakgp/PROJECT_NAME">
-     <img width="140" alt="image" src="https://raw.githubusercontent.com/metakgp/design/main/logos/logo.jpg">
+     <img width="140" alt="image" src="https://raw.githubusercontent.com/metakgp/design/main/logos/black-large.jpg">
   </a>
 
   <h3 align="center">PROJECT_NAME</h3>
@@ -39,7 +39,6 @@
 <summary>Table of Contents</summary>
 
 - [About The Project](#about-the-project)
-  - [Supports](#supports)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -62,18 +61,6 @@
 </div>
 
 _Detailed explaination of the project goes here_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<div id="supports"></div>
-
-### Supports:
-<!-- UPDATE -->
-1. Shells
-    * `bash`
-    * `zsh`
-2. OS(s)
-    * any `*nix`[`GNU+Linux` and `Unix`]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
