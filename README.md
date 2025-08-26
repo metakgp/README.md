@@ -143,6 +143,13 @@ The currently active maintainer(s) of this project.
 <!-- UPDATE -->
 - [NAME](https://github.com/GITHUB_USERNAME)
 
+### Past Maintainer(s)
+
+Previous maintainer(s) of this project.
+
+<!-- UPDATE -->
+- [NAME](https://github.com/GITHUB_USERNAME)
+
 ### Creator(s)
 
 Honoring the original creator(s) and ideator(s) of this project.
