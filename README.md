@@ -139,6 +139,7 @@ Use this space to show useful examples of how this project can be used. Addition
 ### Maintainer(s)
 
 The currently active maintainer(s) of this project.
+See https://wiki.metakgp.org/w/Metakgp:Project_Maintainer.
 
 <!-- UPDATE -->
 - [NAME](https://github.com/GITHUB_USERNAME)
@@ -146,6 +147,7 @@ The currently active maintainer(s) of this project.
 ### Past Maintainer(s)
 
 Previous maintainer(s) of this project.
+See https://wiki.metakgp.org/w/Metakgp:Project_Maintainer.
 
 <!-- UPDATE -->
 - [NAME](https://github.com/GITHUB_USERNAME)
