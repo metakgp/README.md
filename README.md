@@ -29,7 +29,7 @@
     <br />
     <a href="https://UPDATE.metakgp.org">Website</a>
     ·
-    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Request Feature / Report Bug</a>
+    <a href="https://github.com/metakgp/PROJECT_NAME/issues">Request Feature / Report Bug</a>
   </p>
 </div>
 
